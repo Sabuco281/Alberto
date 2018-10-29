@@ -26,6 +26,12 @@ public class Alberto {
         double doble;
            entero = 10;
         doble = 5.6;
+        
+        
+           System.err.println("Valor entero");
+        System.out.println(entero);
+        System.out.println("Valor doble");
+        System.out.println(doble);
     }
     
 }
