@@ -14,7 +14,7 @@ public class Alberto {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] numericos) {
+    public static void main(String[] CADENAS) {
          
 
         //Estos son los tipos básicos
@@ -24,6 +24,8 @@ public class Alberto {
         long duplicaEntero;
         float grande;
         double doble;
+           entero = 10;
+        doble = 5.6;
     }
     
 }
